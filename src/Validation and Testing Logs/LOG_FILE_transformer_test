@@ -1,0 +1,21 @@
+[2023-12-22 13:55:35,274 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer/model_step_33000.pt
+[2023-12-22 13:55:41,338 INFO] Loading test dataset from ../bert_data/cnndm.test.0.bert.pt, number of examples: 2001
+[2023-12-22 13:55:41,346 INFO] * number of parameters: 120512513
+[2023-12-22 13:56:04,169 INFO] Loading test dataset from ../bert_data/cnndm.test.1.bert.pt, number of examples: 2001
+[2023-12-22 13:56:27,409 INFO] Loading test dataset from ../bert_data/cnndm.test.2.bert.pt, number of examples: 2001
+[2023-12-22 13:56:50,534 INFO] Loading test dataset from ../bert_data/cnndm.test.3.bert.pt, number of examples: 2001
+[2023-12-22 13:57:13,823 INFO] Loading test dataset from ../bert_data/cnndm.test.4.bert.pt, number of examples: 2000
+[2023-12-22 13:57:36,948 INFO] Loading test dataset from ../bert_data/cnndm.test.5.bert.pt, number of examples: 1485
+[2023-12-22 13:58:09,692 INFO] Writing summaries.
+[2023-12-22 13:58:09,711 INFO] Processing summaries. Saving system files to ../temp/tmpui7xx517/system and model files to ../temp/tmpui7xx517/model.
+[2023-12-22 13:58:09,711 INFO] Processing files in ../temp/rouge-tmp-2023-12-22-13-57-54/candidate/.
+[2023-12-22 13:58:19,607 INFO] Saved processed files to ../temp/tmpui7xx517/system.
+[2023-12-22 13:58:19,608 INFO] Processing files in ../temp/rouge-tmp-2023-12-22-13-57-54/reference/.
+[2023-12-22 13:58:30,592 INFO] Saved processed files to ../temp/tmpui7xx517/model.
+[2023-12-22 13:58:30,659 INFO] Written ROUGE configuration to ../temp/tmpszqybzd_/rouge_conf.xml
+[2023-12-22 13:58:30,659 INFO] Running ROUGE with command pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmpszqybzd_/rouge_conf.xml
+[2023-12-22 14:00:25,203 INFO] Rouges at step 33000 
+>> ROUGE-F(1/2/3/l): 43.23/20.19/39.58
+ROUGE-R(1/2/3/l): 53.80/25.11/49.21
+
+[2023-12-22 14:00:25,204 INFO] Validation xent: 5.35214 at step 33000

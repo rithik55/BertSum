@@ -23,6 +23,7 @@ def load_json(p, lower):
     tgt = []
     flag = False
     for sent in json.load(open(p))['sentences']:
+	#for sent in json.load(open(p, encoding ='utf-8-sig'))['sentences']:
         tokens = [t['word'] for t in sent['tokens']]
         if (lower):
             tokens = [t.lower() for t in tokens]
@@ -138,6 +139,8 @@ def hashhex(s):
     """Returns a heximal formated SHA1 hash of the input string."""
     h = hashlib.sha1()
     h.update(s.encode('utf-8'))
+    #h.update(s.encode('utf-8-sig'))
+    
     return h.hexdigest()
 
 

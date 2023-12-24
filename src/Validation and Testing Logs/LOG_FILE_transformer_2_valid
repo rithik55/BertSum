@@ -1,0 +1,303 @@
+[2023-12-23 22:23:22,853 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_1000.pt
+[2023-12-23 22:23:30,598 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 22:23:30,609 INFO] * number of parameters: 178778625
+[2023-12-23 22:24:18,196 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 22:25:05,455 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 22:25:52,924 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 22:26:40,337 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 22:27:27,532 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 22:28:14,912 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 22:28:46,759 INFO] Validation xent: 6.12088 at step 1000
+[2023-12-23 22:28:46,837 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_2000.pt
+[2023-12-23 22:28:52,392 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 22:28:52,398 INFO] * number of parameters: 178778625
+[2023-12-23 22:29:39,641 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 22:30:26,665 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 22:31:13,852 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 22:32:00,977 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 22:32:47,946 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 22:39:49,791 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_1000.pt
+[2023-12-23 22:40:43,675 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_1000.pt
+[2023-12-23 22:40:55,857 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 22:40:55,909 INFO] * number of parameters: 178778625
+[2023-12-23 22:41:43,085 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 22:42:30,049 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 22:43:17,169 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 22:44:04,257 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 22:44:51,777 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 22:45:39,792 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 22:46:12,373 INFO] Validation xent: 6.12088 at step 1000
+[2023-12-23 22:46:12,413 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_2000.pt
+[2023-12-23 22:46:17,593 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 22:46:17,598 INFO] * number of parameters: 178778625
+[2023-12-23 22:47:05,179 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 22:47:53,627 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 22:48:42,341 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 22:49:31,075 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 22:50:19,862 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 22:51:08,684 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 22:51:41,638 INFO] Validation xent: 6.1041 at step 2000
+[2023-12-23 22:51:41,642 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_3000.pt
+[2023-12-23 22:51:46,738 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 22:51:46,743 INFO] * number of parameters: 178778625
+[2023-12-23 22:52:34,756 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 22:53:23,013 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 22:54:11,262 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 22:54:59,687 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 22:55:47,842 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 22:56:36,182 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 22:57:08,886 INFO] Validation xent: 5.71279 at step 3000
+[2023-12-23 22:57:08,889 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_4000.pt
+[2023-12-23 22:57:13,747 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 22:57:13,752 INFO] * number of parameters: 178778625
+[2023-12-23 22:58:01,512 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 22:58:49,692 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 22:59:37,792 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:00:26,131 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:01:14,177 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:02:02,715 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:02:35,519 INFO] Validation xent: 5.70865 at step 4000
+[2023-12-23 23:02:35,523 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_5000.pt
+[2023-12-23 23:02:40,293 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:02:40,297 INFO] * number of parameters: 178778625
+[2023-12-23 23:03:28,325 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:04:16,568 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:05:05,183 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:05:53,795 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:06:42,084 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:07:30,522 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:08:03,075 INFO] Validation xent: 5.59497 at step 5000
+[2023-12-23 23:08:03,078 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_6000.pt
+[2023-12-23 23:08:07,858 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:08:07,864 INFO] * number of parameters: 178778625
+[2023-12-23 23:08:55,363 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:09:43,727 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:10:31,891 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:11:19,883 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:12:07,658 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:12:55,821 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:13:28,309 INFO] Validation xent: 5.58733 at step 6000
+[2023-12-23 23:13:28,348 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_7000.pt
+[2023-12-23 23:13:33,355 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:13:33,360 INFO] * number of parameters: 178778625
+[2023-12-23 23:14:21,044 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:15:09,392 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:15:57,890 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:16:46,381 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:17:34,543 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:18:23,232 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:18:56,035 INFO] Validation xent: 5.57207 at step 7000
+[2023-12-23 23:18:56,039 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_8000.pt
+[2023-12-23 23:19:00,878 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:19:00,883 INFO] * number of parameters: 178778625
+[2023-12-23 23:19:48,911 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:20:37,306 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:21:25,871 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:22:14,432 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:23:02,533 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:23:50,732 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:24:23,456 INFO] Validation xent: 5.58609 at step 8000
+[2023-12-23 23:24:23,460 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_9000.pt
+[2023-12-23 23:24:28,362 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:24:28,366 INFO] * number of parameters: 178778625
+[2023-12-23 23:25:16,169 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:26:04,115 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:26:52,210 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:27:40,383 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:28:28,203 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:29:16,603 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:29:49,335 INFO] Validation xent: 5.54452 at step 9000
+[2023-12-23 23:29:49,338 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_10000.pt
+[2023-12-23 23:29:54,187 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:29:54,192 INFO] * number of parameters: 178778625
+[2023-12-23 23:30:42,190 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:31:30,445 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:32:18,861 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:33:07,312 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:33:55,677 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:34:43,951 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:35:16,487 INFO] Validation xent: 5.57311 at step 10000
+[2023-12-23 23:35:16,490 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_11000.pt
+[2023-12-23 23:35:21,265 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:35:21,270 INFO] * number of parameters: 178778625
+[2023-12-23 23:36:09,010 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:36:56,931 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:37:45,000 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:38:33,561 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:39:21,794 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:40:09,967 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:40:42,459 INFO] Validation xent: 5.52419 at step 11000
+[2023-12-23 23:40:42,462 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_12000.pt
+[2023-12-23 23:40:47,245 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:40:47,250 INFO] * number of parameters: 178778625
+[2023-12-23 23:41:34,787 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:42:23,097 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:43:11,665 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:44:00,162 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:44:48,571 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:45:37,064 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:46:09,993 INFO] Validation xent: 5.51097 at step 12000
+[2023-12-23 23:46:09,997 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_13000.pt
+[2023-12-23 23:46:14,791 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:46:14,796 INFO] * number of parameters: 178778625
+[2023-12-23 23:47:02,789 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:47:51,008 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:48:39,573 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:49:27,728 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:50:15,793 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:51:04,421 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:51:37,181 INFO] Validation xent: 5.5031 at step 13000
+[2023-12-23 23:51:37,184 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_14000.pt
+[2023-12-23 23:51:42,007 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:51:42,012 INFO] * number of parameters: 178778625
+[2023-12-23 23:52:29,611 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:53:17,928 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:54:06,430 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-23 23:54:54,886 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-23 23:55:43,306 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-23 23:56:31,831 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-23 23:57:04,553 INFO] Validation xent: 5.50167 at step 14000
+[2023-12-23 23:57:04,556 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_15000.pt
+[2023-12-23 23:57:09,350 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-23 23:57:09,354 INFO] * number of parameters: 178778625
+[2023-12-23 23:57:57,278 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-23 23:58:45,439 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-23 23:59:33,790 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:00:22,183 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:01:10,342 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:01:58,833 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:02:31,566 INFO] Validation xent: 5.4536 at step 15000
+[2023-12-24 00:02:31,569 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_16000.pt
+[2023-12-24 00:02:36,362 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:02:36,382 INFO] * number of parameters: 178778625
+[2023-12-24 00:03:24,102 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:04:12,009 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:05:00,105 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:05:48,293 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:06:36,616 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:07:24,977 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:07:57,599 INFO] Validation xent: 5.46376 at step 16000
+[2023-12-24 00:07:57,603 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_17000.pt
+[2023-12-24 00:08:02,374 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:08:02,379 INFO] * number of parameters: 178778625
+[2023-12-24 00:08:50,164 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:09:38,402 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:10:26,831 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:11:15,212 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:12:03,277 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:12:51,729 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:13:24,433 INFO] Validation xent: 5.43955 at step 17000
+[2023-12-24 00:13:24,437 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_18000.pt
+[2023-12-24 00:13:29,245 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:13:29,250 INFO] * number of parameters: 178778625
+[2023-12-24 00:14:17,049 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:15:05,270 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:15:53,592 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:16:41,930 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:17:30,072 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:18:18,500 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:18:51,093 INFO] Validation xent: 5.49302 at step 18000
+[2023-12-24 00:18:51,096 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_19000.pt
+[2023-12-24 00:18:55,838 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:18:55,842 INFO] * number of parameters: 178778625
+[2023-12-24 00:19:43,640 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:20:31,953 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:21:20,249 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:22:08,610 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:22:56,811 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:23:45,204 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:24:17,893 INFO] Validation xent: 5.49022 at step 19000
+[2023-12-24 00:24:17,896 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_20000.pt
+[2023-12-24 00:24:22,647 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:24:22,652 INFO] * number of parameters: 178778625
+[2023-12-24 00:25:10,511 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:25:58,515 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:26:46,765 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:27:35,131 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:28:23,376 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:29:11,841 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:29:44,696 INFO] Validation xent: 5.46976 at step 20000
+[2023-12-24 00:29:44,700 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_21000.pt
+[2023-12-24 00:29:49,489 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:29:49,495 INFO] * number of parameters: 178778625
+[2023-12-24 00:30:37,275 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:31:25,533 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:32:13,855 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:33:02,115 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:33:50,307 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:34:38,941 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:35:11,707 INFO] Validation xent: 5.45462 at step 21000
+[2023-12-24 00:35:11,710 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_22000.pt
+[2023-12-24 00:35:16,404 INFO] Loading valid dataset from ../bert_data/cnndm.valid.0.bert.pt, number of examples: 2001
+[2023-12-24 00:35:16,409 INFO] * number of parameters: 178778625
+[2023-12-24 00:36:04,213 INFO] Loading valid dataset from ../bert_data/cnndm.valid.1.bert.pt, number of examples: 2001
+[2023-12-24 00:36:52,380 INFO] Loading valid dataset from ../bert_data/cnndm.valid.2.bert.pt, number of examples: 2001
+[2023-12-24 00:37:40,941 INFO] Loading valid dataset from ../bert_data/cnndm.valid.3.bert.pt, number of examples: 2000
+[2023-12-24 00:38:29,219 INFO] Loading valid dataset from ../bert_data/cnndm.valid.4.bert.pt, number of examples: 2001
+[2023-12-24 00:39:17,363 INFO] Loading valid dataset from ../bert_data/cnndm.valid.5.bert.pt, number of examples: 2001
+[2023-12-24 00:40:05,860 INFO] Loading valid dataset from ../bert_data/cnndm.valid.6.bert.pt, number of examples: 1362
+[2023-12-24 00:40:38,593 INFO] Validation xent: 5.53487 at step 22000
+[2023-12-24 00:40:38,597 INFO] PPL [(5.43954533523599, '/projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_17000.pt'), (5.4535965944465525, '/projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_15000.pt'), (5.454624273322716, '/projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_21000.pt')]
+[2023-12-24 00:40:38,597 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_17000.pt
+[2023-12-24 00:40:42,009 INFO] Loading test dataset from ../bert_data/cnndm.test.0.bert.pt, number of examples: 2001
+[2023-12-24 00:40:42,014 INFO] * number of parameters: 178778625
+[2023-12-24 00:41:29,996 INFO] Loading test dataset from ../bert_data/cnndm.test.1.bert.pt, number of examples: 2001
+[2023-12-24 00:42:18,770 INFO] Loading test dataset from ../bert_data/cnndm.test.2.bert.pt, number of examples: 2001
+[2023-12-24 00:43:07,195 INFO] Loading test dataset from ../bert_data/cnndm.test.3.bert.pt, number of examples: 2001
+[2023-12-24 00:43:55,878 INFO] Loading test dataset from ../bert_data/cnndm.test.4.bert.pt, number of examples: 2000
+[2023-12-24 00:44:44,397 INFO] Loading test dataset from ../bert_data/cnndm.test.5.bert.pt, number of examples: 1485
+[2023-12-24 00:45:34,550 INFO] Writing summaries.
+[2023-12-24 00:45:34,552 INFO] Processing summaries. Saving system files to ../temp/tmpcwlk77z7/system and model files to ../temp/tmpcwlk77z7/model.
+[2023-12-24 00:45:34,552 INFO] Processing files in ../temp/rouge-tmp-2023-12-24-00-45-20/candidate/.
+[2023-12-24 00:45:44,009 INFO] Saved processed files to ../temp/tmpcwlk77z7/system.
+[2023-12-24 00:45:44,010 INFO] Processing files in ../temp/rouge-tmp-2023-12-24-00-45-20/reference/.
+[2023-12-24 00:45:53,160 INFO] Saved processed files to ../temp/tmpcwlk77z7/model.
+[2023-12-24 00:45:53,240 INFO] Written ROUGE configuration to ../temp/tmp5z3_42_h/rouge_conf.xml
+[2023-12-24 00:45:53,240 INFO] Running ROUGE with command pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmp5z3_42_h/rouge_conf.xml
+[2023-12-24 00:48:11,567 INFO] Rouges at step 17000 
+>> ROUGE-F(1/2/3/l): 43.11/20.12/39.51
+ROUGE-R(1/2/3/l): 53.55/24.95/49.01
+
+[2023-12-24 00:48:11,568 INFO] Validation xent: 5.39516 at step 17000
+[2023-12-24 00:48:11,577 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_15000.pt
+[2023-12-24 00:48:14,842 INFO] Loading test dataset from ../bert_data/cnndm.test.0.bert.pt, number of examples: 2001
+[2023-12-24 00:48:14,847 INFO] * number of parameters: 178778625
+[2023-12-24 00:49:01,807 INFO] Loading test dataset from ../bert_data/cnndm.test.1.bert.pt, number of examples: 2001
+[2023-12-24 00:49:49,011 INFO] Loading test dataset from ../bert_data/cnndm.test.2.bert.pt, number of examples: 2001
+[2023-12-24 00:50:36,119 INFO] Loading test dataset from ../bert_data/cnndm.test.3.bert.pt, number of examples: 2001
+[2023-12-24 00:51:23,795 INFO] Loading test dataset from ../bert_data/cnndm.test.4.bert.pt, number of examples: 2000
+[2023-12-24 00:52:11,838 INFO] Loading test dataset from ../bert_data/cnndm.test.5.bert.pt, number of examples: 1485
+[2023-12-24 00:53:02,838 INFO] Writing summaries.
+[2023-12-24 00:53:02,839 INFO] Processing summaries. Saving system files to ../temp/tmpg9f0arwg/system and model files to ../temp/tmpg9f0arwg/model.
+[2023-12-24 00:53:02,840 INFO] Processing files in ../temp/rouge-tmp-2023-12-24-00-52-47/candidate/.
+[2023-12-24 00:53:12,038 INFO] Saved processed files to ../temp/tmpg9f0arwg/system.
+[2023-12-24 00:53:12,039 INFO] Processing files in ../temp/rouge-tmp-2023-12-24-00-52-47/reference/.
+[2023-12-24 00:53:21,461 INFO] Saved processed files to ../temp/tmpg9f0arwg/model.
+[2023-12-24 00:53:21,536 INFO] Written ROUGE configuration to ../temp/tmpqtv3kca3/rouge_conf.xml
+[2023-12-24 00:53:21,537 INFO] Running ROUGE with command pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmpqtv3kca3/rouge_conf.xml
+[2023-12-24 00:55:32,190 INFO] Rouges at step 15000 
+>> ROUGE-F(1/2/3/l): 43.05/20.04/39.41
+ROUGE-R(1/2/3/l): 54.11/25.19/49.48
+
+[2023-12-24 00:55:32,190 INFO] Validation xent: 5.40627 at step 15000
+[2023-12-24 00:55:32,198 INFO] Loading checkpoint from /projectnb/cs505ws/students/rithik/BertSum/models/bert_transformer_2/model_step_21000.pt
+[2023-12-24 00:55:35,461 INFO] Loading test dataset from ../bert_data/cnndm.test.0.bert.pt, number of examples: 2001
+[2023-12-24 00:55:35,466 INFO] * number of parameters: 178778625
+[2023-12-24 00:56:22,405 INFO] Loading test dataset from ../bert_data/cnndm.test.1.bert.pt, number of examples: 2001
+[2023-12-24 00:57:09,610 INFO] Loading test dataset from ../bert_data/cnndm.test.2.bert.pt, number of examples: 2001
+[2023-12-24 00:57:56,730 INFO] Loading test dataset from ../bert_data/cnndm.test.3.bert.pt, number of examples: 2001
+[2023-12-24 00:58:44,433 INFO] Loading test dataset from ../bert_data/cnndm.test.4.bert.pt, number of examples: 2000
+[2023-12-24 00:59:32,537 INFO] Loading test dataset from ../bert_data/cnndm.test.5.bert.pt, number of examples: 1485
+[2023-12-24 01:00:23,342 INFO] Writing summaries.
+[2023-12-24 01:00:23,344 INFO] Processing summaries. Saving system files to ../temp/tmpl6udltpp/system and model files to ../temp/tmpl6udltpp/model.
+[2023-12-24 01:00:23,344 INFO] Processing files in ../temp/rouge-tmp-2023-12-24-01-00-08/candidate/.
+[2023-12-24 01:00:33,084 INFO] Saved processed files to ../temp/tmpl6udltpp/system.
+[2023-12-24 01:00:33,085 INFO] Processing files in ../temp/rouge-tmp-2023-12-24-01-00-08/reference/.
+[2023-12-24 01:00:41,636 INFO] Saved processed files to ../temp/tmpl6udltpp/model.
+[2023-12-24 01:00:41,713 INFO] Written ROUGE configuration to ../temp/tmpcz7wpvfk/rouge_conf.xml
+[2023-12-24 01:00:41,713 INFO] Running ROUGE with command pyrouge/tools/ROUGE-1.5.5/ROUGE-1.5.5.pl -e pyrouge/tools/ROUGE-1.5.5/data -c 95 -m -r 1000 -n 2 -a ../temp/tmpcz7wpvfk/rouge_conf.xml
+[2023-12-24 01:02:51,379 INFO] Rouges at step 21000 
+>> ROUGE-F(1/2/3/l): 43.04/20.05/39.42
+ROUGE-R(1/2/3/l): 53.73/25.00/49.15
+
+[2023-12-24 01:02:51,380 INFO] Validation xent: 5.41195 at step 21000

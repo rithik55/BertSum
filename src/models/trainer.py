@@ -289,10 +289,27 @@ class Trainer(object):
                             pred.append(_pred)
                             gold.append(batch.tgt_str[i])
 
+
                         for i in range(len(gold)):
-                            save_gold.write(gold[i].strip()+'\n')
+                            try:
+                                save_gold.write((gold[i].strip() + '\n').encode('utf-8').decode('ascii', 'ignore'))
+                            except UnicodeEncodeError as e:
+                                print(f"UnicodeEncodeError at index {i}: {gold[i]}")
+
                         for i in range(len(pred)):
-                            save_pred.write(pred[i].strip()+'\n')
+                            try:
+                                save_pred.write((pred[i].strip() + '\n').encode('utf-8').decode('ascii', 'ignore'))
+                            except UnicodeEncodeError as e:
+                                print(f"UnicodeEncodeError at index {i}: {pred[i]}")
+
+
+
+                                    
+
+                        # for i in range(len(gold)):
+                        #     save_gold.write(gold[i].strip()+'\n')
+                        # for i in range(len(pred)):
+                        #     save_pred.write(pred[i].strip()+'\n')
         if(step!=-1 and self.args.report_rouge):
             rouges = test_rouge(self.args.temp_dir, can_path, gold_path)
             logger.info('Rouges at step %d \n%s' % (step, rouge_results_to_str(rouges)))

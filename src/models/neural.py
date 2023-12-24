@@ -33,6 +33,54 @@ class PositionwiseFeedForward(nn.Module):
         return output + x
 
 
+# class PositionwiseFeedForward(nn.Module):
+#     def __init__(self, d_model, d_ff, dropout=0.1):
+#         super(PositionwiseFeedForward, self).__init__()
+#         self.w_1 = nn.Linear(d_model, d_ff)
+#         self.actv_1 = gelu
+#         self.w_2 = nn.Linear(d_ff, d_model)
+#         self.actv_2 = gelu
+#         self.layer_norm = nn.LayerNorm(d_model, eps=1e-6)
+#         self.dropout_1 = nn.Dropout(dropout)
+#         self.dropout_2 = nn.Dropout(dropout)
+
+#     def forward(self, x):
+#         inter = self.dropout_1(self.actv_1(self.w_1(self.layer_norm(x))))
+#         inter = self.dropout_2(self.actv_2(self.w_2(inter)))
+#         output = inter + x
+#         return output
+
+# class PositionwiseFeedForward(nn.Module):
+#     def __init__(self, d_model, d_ff, num_layers=3, dropout=0.1):
+#         super(PositionwiseFeedForward, self).__init__()
+#         self.w_layers = nn.ModuleList([nn.Linear(d_model, d_ff) for _ in range(num_layers)])
+#         self.actv_layers = nn.ModuleList([gelu for _ in range(num_layers)])
+#         self.layer_norm = nn.LayerNorm(d_model, eps=1e-6)
+#         self.dropout_layers = nn.ModuleList([nn.Dropout(dropout) for _ in range(num_layers)])
+
+#     def forward(self, x):
+#         for w, actv, dropout in zip(self.w_layers, self.actv_layers, self.dropout_layers):
+#             inter = dropout(actv(w(self.layer_norm(x))))
+#             x = inter + x
+#         return x
+
+# class PositionwiseFeedForward(nn.Module):
+#     def __init__(self, d_model, d_ff, num_layers=2, dropout=0.1):
+#         super(PositionwiseFeedForward, self).__init__()
+#         self.w_layers = nn.ModuleList([nn.Linear(d_model, d_ff) for _ in range(num_layers)])
+#         self.actv_layers = nn.ModuleList([gelu for _ in range(num_layers)])
+#         self.layer_norm = nn.LayerNorm(d_model, eps=1e-6)
+#         self.dropout_layers = nn.ModuleList([nn.Dropout(dropout) for _ in range(num_layers)])
+
+#     def forward(self, x):
+#         for w, actv, dropout in zip(self.w_layers, self.actv_layers, self.dropout_layers):
+#             inter = dropout(actv(w(self.layer_norm(x))))
+#             x = inter + x  # Residual connection
+#         return x
+
+
+
+
 class MultiHeadedAttention(nn.Module):
     """
     Multi-Head Attention module from
@@ -218,7 +266,6 @@ class MultiHeadedAttention(nn.Module):
             attn_masked = attn_masked / (torch.sum(attn_masked, 2).unsqueeze(2) + 1e-9)
 
             attn = torch.cat([attn[:, :-1], attn_masked.unsqueeze(1)], 1)
-
         drop_attn = self.dropout(attn)
         if (self.use_final_linear):
             context = unshape(torch.matmul(drop_attn, value))
