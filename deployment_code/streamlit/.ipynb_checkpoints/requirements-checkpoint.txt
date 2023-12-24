@@ -1,0 +1,16 @@
+streamlit
+mlflow
+scikit-learn
+pandas
+matplotlib
+seaborn
+numpy
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-storage  # If using Google Cloud Storage
+google-cloud-bigquery # If using BigQuery
+# mlflow==2.7.1
+torch==2.1.2
+transformers==4.36.2
+

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimal-relic-407702",
+  "private_key_id": "4fc6feaad6f459154be8423d823839627a1b0101",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1aM3kYRgvz6oX\njBTpBvoU28GCA7we/Rp5FDRrsOxPYdnDTja20oDE7NbzAKfK1iOMNYwnCzoLTOIb\nRQeJhqeSJfslUSiJCmUGBESl9Fl8WhUzQDsBZjJethIrB1hTy24hcUv9msjVXpJz\nh4nB2tIzlkZcb6UNjrOGLpq0XzpxIw3iOI2oL4V6rlG7jRGDPnNG+vcMWR/gCf8j\nH+YwGaESHLepOFV9aWarsmFOgQc6Onj2N79CIQMd7W8NKOHVeVUPt1XyFCOrG5fs\nCmKj2eU9T3uvLUbVA565wFL3AKbuhyHFapHxycyZQgZON9vuZONUP2cknqQjTMO6\n6uWT1+sDAgMBAAECggEAR/MmXiMoXaYmlypHDNlojKdQS4nBriTCwC0EUYYdY6qy\nnOTDjKVWz0QESOMEqc1e0fhW+xFX1y2KLDinsaMHiU6pGnbi9d96i/VbaNrONyTf\nbbFW9cobxja+Y/SI0stHhdoSwqYGa6ITweCLAakRX8aFZ5ocQ5FKoLiRQWLXohES\n1wDeCazeaWlrN8LaYpFnvwi5u97/8Bv0QnIhsDRhcEvOs85mUqLXTvTzMV90f013\nZhqslXLopS+1QV4fmLzCmcPn2oUsGD6eygfyZ8U+/MrVLiQUGeh+6noEdCYoFBcT\nS7htHDdn85YiCrMIjAxipzPvcbRlspP+/2TeK4UzEQKBgQDmd+Muuw2Uk2apLukX\nxlsAcQSeyUYJ+1nU6wFy01b1g7UWQ5/a4bd+tC+TllpAW4eaVW9HO8ch4DWdomBs\nE7BF3AmzQ1GizV//lnW+M+i1Q8uwXEmyoFTVNoR7OZ3wOB4Wgnu6D2zyCrnxhwM4\nn8coE/MXx78jXl2B+vAdfzceywKBgQDJgZln7Do3rJexhRX21AuKO3MXjzBRk3TN\ncwpeGvW62ES3aamEHyzFQHVg0WM4YTmsVZ3EetkG6W2xCxkhxIofR6CAPLhfbONT\nJl45L8LKxJlVdqC0Afmo1aYzXxZN8EK8+a4oc3NCE9+rla9hk0ri4IC4DyNT6IBs\nLLtAT5vlqQKBgQCQ624lomWFubJiTCcyVf4/JtIa7sFl4XG5WxUMGSyjMXCbUWah\ngjGaML+B9JdHxMZeG77fcg1jldLhDovHKhI7u4M1/+zDjJUC6J+dPJLl+H2Kpl2J\nPxxY/fEMc0yHEyKIUQBwHOcKxAfsglNaNc5Lu0+u8mGUYfA2nY6DXc1RRQKBgATu\nixakDXi3XK8XlsYHwpCLi/GTq5cTiNROcH6FImaETIpAp8l4Cdx6C2VnOopytrql\nDct1RkKJDAo9P0w4Rzkkw6Tf15NeUuICGmRD6vyTez1APgap1bZwJDU1qpIVw0xk\nwAJ1cOi5G8xTSYuV00tiO0RF+pNfKWV8YsjcKfChAoGBALkLBdVw4tO3o7a4FRoO\ndbnT9q9qH2HBK2bzEKZcC4ML8oipEUgXQnKbClPjIXPX0/PBEUi5wdCfd81AhTSl\nbWtg+biTvwXiAoLEjy4K5nCaJLMy5obHx4Mgi+zbl3YBZ0WDQqWzbYiYT3O6LtLH\nX7otZpXnsvxXN5V8xtpl2byj\n-----END PRIVATE KEY-----\n",
+  "client_email": "cs505-nlp-project-sa@optimal-relic-407702.iam.gserviceaccount.com",
+  "client_id": "115114042040831848718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cs505-nlp-project-sa%40optimal-relic-407702.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
